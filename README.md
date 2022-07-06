@@ -28,9 +28,6 @@
 <h3> Social links </h3>
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
