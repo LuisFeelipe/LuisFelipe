@@ -28,7 +28,7 @@
 <h3> Social links </h3>
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/luís-felipe-ferreira-595144209/)" target="_blank">
+<a href="https://www.linkedin.com/in/luís-felipe-ferreira-595144209/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/lfelipe_sf" target="_blank">
