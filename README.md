@@ -38,5 +38,3 @@
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail" alt="linkedin"/>
 </a>
 </p> 
-
-![Snake animation](https://github.com/LuisFeelipe/LuisFeelipe/blob/output/github-contribution-grid-snake.svg)
