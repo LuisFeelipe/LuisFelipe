@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luís Felipe</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/lfelipe_ssf" target="blank"><img src="https://img.shields.io/twitter/follow/lfelipe_ssf?logo=twitter&style=for-the-badge" alt="lfelipe_ssf" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, NextJS and Tailwind CSS**
 
 - 📫 How to reach me **luisfelipesesf@gmail.com**
