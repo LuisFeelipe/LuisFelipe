@@ -3,7 +3,7 @@
 
 <h3> Infos </h3>
 
-- Learning React...
+- Learning Next JS...
 
 <br>
 
