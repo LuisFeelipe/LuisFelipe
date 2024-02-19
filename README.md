@@ -4,7 +4,7 @@
 
 <h3 align="left">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **ReactJS, NextJS and Tailwind CSS**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **luisfelipesesf@gmail.com**
 
